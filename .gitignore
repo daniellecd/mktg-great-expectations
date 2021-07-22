@@ -1,0 +1,5 @@
+# exclude JetBrains config directory
+.idea/*
+
+# exclude credentials
+*credential*
