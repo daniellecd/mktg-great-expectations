@@ -3,3 +3,10 @@
 
 # exclude credentials
 *credential*
+great_expectations/plugins/custom_data_docs/styles/data_docs_custom_styles.css
+great_expectations/notebooks/sql/validation_playground.ipynb
+great_expectations/notebooks/spark/validation_playground.ipynb
+great_expectations/notebooks/pandas/validation_playground.ipynb
+great_expectations/notebooks/pandas/.ipynb_checkpoints/validation_playground-checkpoint.ipynb
+great_expectations/expectations/email-cac_report.json
+great_expectations/expectations/.ge_store_backend_id
